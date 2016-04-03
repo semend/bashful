@@ -1,2 +1,2 @@
 # bashful
-This scripts!
+These scripts!
